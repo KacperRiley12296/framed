@@ -15,3 +15,4 @@ Notes and usage details for framed.
 - fix a small wording issue
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
